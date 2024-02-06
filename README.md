@@ -35,7 +35,7 @@
             margin-top: 60px;
         }
         .rotating {
-            animation: rotateY 4s linear infinite; /* Drehende Animation */
+            animation: rotateY 6s linear infinite; /* Drehende Animation */
         }
         @keyframes rotateY {
             from {
