@@ -87,7 +87,7 @@
 
    
    <h1> Unser grösstes Vorbild </h1>
-   <p> "Gugus gsi, Gusus geblieben..." </p>
+   <p> "Gugus gsi, Gugus geblieben..." </p>
    <br>
       
   <iframe width="800" height="420" src="https://www.youtube.com/embed/BpVR7AvP8LA?si=GiGDLeKsRuvczerM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
