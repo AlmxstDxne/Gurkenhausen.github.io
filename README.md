@@ -80,7 +80,22 @@
             <br>
        	
             Die Heilige Gurke, möge sie ewiglich sein.
-        </p>
-       <br>
+            </p>
+
+               </br>
+   <br>
+   </br>
+   
+   <h1> Unser grösstes Vorbild </h1>
+   <p> "Gugus gsi, Gusus geblieben..." </p>
+      
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/BpVR7AvP8LA?si=GiGDLeKsRuvczerM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+   
+   <br>
+   </br>
+   <br>
+   </br>
+
+    
   
 
