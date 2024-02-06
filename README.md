@@ -52,7 +52,7 @@
 <body>
     <div class="header">
         <h1>Willkommen zur Seite der Heiligen Gurke</h1>
-        <p> Website des GayLoards </p>
+        <p> Website von AlmxstDxne </p>
     </div>
     
     <div class="container">
