@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <html lang="de">
 <head>
     <meta charset="UTF-8">
@@ -69,16 +69,16 @@
         <h1>Gedicht über die Heilige Gurke</h2>
         <p>
         	<br>
-       </br>
+    
             O heilige Gurke, so grün und so rein,<br>
             <br>
-       		</br>
+       	
             Dein Geschmack, er möge uns stets erfreu'n.<br>
             <br>
-       		</br>
+       		
             Gesundheit und Segen, du bringst uns allein,<br>
             <br>
-       		</br>
+       	
             Die Heilige Gurke, möge sie ewiglich sein.
         </p>
        <br>
