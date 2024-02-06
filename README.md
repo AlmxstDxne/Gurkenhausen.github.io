@@ -66,7 +66,7 @@
    
    </div>
     <div class="poem">
-        <h1>Gedicht über die Heilige Gurke</h2>
+        <h1>Gedicht über die Heilige Gurke</h1>
         <p>
         	<br>
     
@@ -82,9 +82,5 @@
             Die Heilige Gurke, möge sie ewiglich sein.
         </p>
        <br>
-       </br>
-   
-   </div>
-</body>
-</html>
+  
 
