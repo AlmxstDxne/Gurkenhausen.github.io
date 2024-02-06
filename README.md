@@ -21,7 +21,7 @@
             color: #fff;
             padding: 20px;
             text-align: center;
-            font-size: 50px; /* Vergrößerter Titel */
+            font-size: 35px; /* Vergrößerter Titel */
         }
         .container {
             max-width: 800px;
