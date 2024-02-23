@@ -10,10 +10,15 @@
             margin: 0;
             padding: 0;
         }
-
+        div, iframe {
+            width: 100px;
+            height: 50px;
+            margin: 0 auto;
+            background-color: #777;
+        }
         p {
         	font-size: 20px;
-            
+        
         }
         
         .header {
@@ -44,7 +49,6 @@
             to {
                 transform: rotateY(360deg);
             }
-
         
         }
     </style>
