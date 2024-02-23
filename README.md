@@ -84,8 +84,7 @@
             <br>
             <br>
 
-<iframe width="800" scrolling="yes" height="900" frameborder="0" src="https://www.4-gewinnt.de/sehr_schwer.html" border="0" style="border: none;"> </iframe>
-
+<iframe width="800" scrolling="no" height="900" frameborder="0" src="https://www.4-gewinnt.de/extern.html" border="0" style="border: none;"> </iframe>
    
    <h1> Unser grösstes Vorbild </h1>
    <p> "Gugus gsi, Gugus geblieben..." </p>
