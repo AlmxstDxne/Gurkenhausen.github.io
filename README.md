@@ -83,7 +83,8 @@
             </p>
             <br>
             <br>
-<iframe width="400" scrolling="no" height="450" frameborder="0" src="https://www.4-gewinnt.de/extern.html" border="0" style="border: none;"> </iframe>
+
+<iframe width="400" scrolling="no" height="450" frameborder="0" src="https://www.4-gewinnt.de/sehr_schwer.html" border="0" style="border: none;"> </iframe>
 
    
    <h1> Unser grösstes Vorbild </h1>
