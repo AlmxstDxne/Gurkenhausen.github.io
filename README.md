@@ -97,14 +97,13 @@
    
    <br>
 
- <h1> Hall of Games </h1>
-<br>
-<iframe width="800" scrolling="no" height="900" frameborder="0" src="https://studio.code.org/projects/applab/7oDX6FR8F2C2kv7TJhsV8GOmdIJEa4R5VODJ26w_-id/embed?nosource" border="0" style="border: none;"> </iframe>
+     <h1> Hall of Games </h1>
+    <br>
+    <iframe width="800" scrolling="no" height="900" frameborder="0" src="https://studio.code.org/projects/applab/7oDX6FR8F2C2kv7TJhsV8GOmdIJEa4R5VODJ26w_-id/embed?        nosource" border="0" style="border: none;"> </iframe>
 
     <br>
    <br>
 
 
-    
-  
+</body>
 
