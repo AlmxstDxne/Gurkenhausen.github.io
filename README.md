@@ -87,7 +87,7 @@
 <iframe width="800" scrolling="no" height="900" frameborder="0" src="https://www.4-gewinnt.de/extern.html" border="0" style="border: none;"> </iframe>
 
 
-<a href="https://www.moddb.com/games/connect-4-io/downloads/connect-4" title="Download Connect 4 - ModDB" target="_blank"><img src="https://button.moddb.com/download/medium/131297.png" alt="Connect 4" /></a>
+<iframe width="1200" height="360" src="https://www.moddb.com/games/connect-4-io/downloads/connect-4/widget" frameborder="0"></iframe><br><a href="https://www.moddb.com/games/connect-4-io/downloads/connect-4">Download Connect 4 - ModDB</a>
    
    <h1> Unser grösstes Vorbild </h1>
    <p> "Gugus gsi, Gugus geblieben..." </p>
