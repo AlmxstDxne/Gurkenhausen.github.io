@@ -67,6 +67,10 @@
     <div class="container">
         <h1>Der Gurkenmann</h1>
         <img src="https://media1.tenor.com/m/WA7fIXxzBM0AAAAC/cucumber-happy.gif" alt="Eine Gurke" style="width: 70%;" align="middle">
+
+     <h1> Hall of Games </h1>
+    <br>
+    <iframe width="800" scrolling="no" height="900" frameborder="0" src="https://studio.code.org/projects/applab/7oDX6FR8F2C2kv7TJhsV8GOmdIJEa4R5VODJ26w_-id/embed?        nosource" border="0" style="border: none;"> </iframe>
    
    </div>
     <div class="poem">
@@ -95,15 +99,6 @@
       
   <iframe width="800" height="420" src="https://www.youtube.com/embed/BpVR7AvP8LA?si=GiGDLeKsRuvczerM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
    
-   <br>
-
-     <h1> Hall of Games </h1>
-    <br>
-    <iframe width="800" scrolling="no" height="900" frameborder="0" src="https://studio.code.org/projects/applab/7oDX6FR8F2C2kv7TJhsV8GOmdIJEa4R5VODJ26w_-id/embed?        nosource" border="0" style="border: none;"> </iframe>
 
     <br>
    <br>
-
-
-</body>
-
